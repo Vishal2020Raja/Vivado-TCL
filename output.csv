@@ -1,0 +1,4 @@
+File Name,DatapathDelay,Logic Delay,Routing Delay,Dynamic Power,Static Power,Signal Power,Logic Power,I/O Power,Total Power,F7 Muxes,LUT as Memory,LUT as Logic,Slice LUT,LUT1,LUT2,LUT3,LUT4,LUT5,LUT6,LUT7
+mux,5.614,3.377,2.237,0.351,0.132,0.011,0.002,0.339,0.483,0.0,0.0,1.0,1.0,NA,NA,1.0,NA,NA,NA,NA
+HA,6.066,3.553,2.513,0.665,0.133,0.013,0.005,0.646,0.797,0.0,0.0,1.0,1.0,NA,2.0,NA,NA,NA,NA,NA
+mux2,5.614,3.377,2.237,0.351,0.132,0.011,0.002,0.339,0.483,0.0,0.0,1.0,1.0,NA,NA,1.0,NA,NA,NA,NA
